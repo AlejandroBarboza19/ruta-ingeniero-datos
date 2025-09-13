@@ -138,5 +138,5 @@ Aquí encontrarás apuntes, resúmenes, notebooks, ejercicios, mini-proyectos y 
 
 <h2 id="licencia">📝 Licencia</h2>
 <p>
-  Este repositorio es para fines educativos y de práctica personal. Puedes leer más en el archivo <a href="./LICENSE">LICENSE</a> (si lo agregas).
+  Este repositorio es para fines educativos y de práctica personal. Puedes leer más en el archivo <a href="./LICENSE">LICENSE</a> 
 </p>
